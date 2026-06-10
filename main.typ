@@ -124,7 +124,7 @@
 Текст. Как представлено на @fig-example, ...
 
 #figure(
-  image("screenshots/1.png", width: 80%),
+  image("1.png", width: 80%),
   caption: [Подпись к рисунку],
 ) <fig-example>
 
